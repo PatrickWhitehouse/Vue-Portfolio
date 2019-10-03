@@ -1,6 +1,6 @@
 <template>
   <section class="h-screen flex flex-col items-center justify-center">
-    <h1>Patrick Whitehouse</h1>
+    <h1 class="text-3xl">Patrick Whitehouse</h1>
     <h2>Front end developer based in Manchester, UK</h2>
   </section>
 </template>
@@ -12,10 +12,7 @@ export default {
   },
   head(){
     return{
-      title: 'Patrick Whitehouse - Front end developer based in Manchester, UK',
-      bodyAttrs: {
-        class: 'bg-gray-100 text-gray-800'
-      }
+      title: 'Patrick Whitehouse - Front end developer based in Manchester, UK'
     }
   }
 }
