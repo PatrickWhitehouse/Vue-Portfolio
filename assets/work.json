@@ -1,0 +1,16 @@
+{
+    "projects":[
+        {   
+            "id": 1,
+            "client": "Maid About Town",
+            "description": "lorem",
+            "link": "https://maidabouttown.cleaning"
+        },
+        {
+          "id": 2,
+          "client": "AD Supplies",
+          "description": "lorem",
+          "link": "https://ad-supplies.com"
+        }
+    ]
+}
