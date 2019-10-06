@@ -1,7 +1,7 @@
 <template>
   <div class="project">
       <h2>{{client}}</h2>
-      <a :href=url>{{url}}</a>
+      <a :href=url class="text-blue-800" target="_blank">{{url}}</a>
   </div>
 </template>
 
